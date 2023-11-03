@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-=======
->>>>>>> 515bb876e2d53b150847502c83563022aad2bd37
+
 .cards{
     display: flex;
     flex-direction: row;
@@ -14,18 +13,15 @@ img{
     width: 100%;
 }
 .price{
-<<<<<<< HEAD
     font-family: 'Poppins', sans-serif;
     letter-spacing: 0em;
     text-align: left;
     color: #000;
-=======
-    font-family: Poppins;
+ font-family: Poppins;
     letter-spacing: 0em;
     text-align: left;
     color: #000;
     font-family: Poppins;
->>>>>>> 515bb876e2d53b150847502c83563022aad2bd37
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -34,11 +30,8 @@ img{
 }
 .title{
     color: #6C6C6C;
-<<<<<<< HEAD
-    font-family: 'Poppins', sans-serif;
-=======
+     font-family: 'Poppins', sans-serif;
     font-family: Poppins;
->>>>>>> 515bb876e2d53b150847502c83563022aad2bd37
     font-size: 16px;
     font-style: normal;
     font-weight: 400;

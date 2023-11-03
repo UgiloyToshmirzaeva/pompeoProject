@@ -1,22 +1,22 @@
 import './App.css'
-// import Nav from './Components/Nav'
+import Nav from './Components/Nav'
 import Showcase from './Components/Showcase'
 // import Categories from './Components/Categories'
-// import Collection from './Components/Collection'
+import Collection from './Components/Collection'
 // import Shop from './Components/Shop' // 
 // import News from './Components/News' 
-// import Footer from './Components/Footer'
+import Footer from './Components/Footer'
 
 function App() {
   return (
     <div className='Pompeo'>
-      {/* <Nav></Nav>
+      <Nav></Nav>
       <Showcase></Showcase>
-      <Categories></Categories>
+      {/* <Categories></Categories> */}
       <Collection></Collection>
-      <Shop></Shop>
-      <News></News> 
-      <Footer></Footer> */}
+      {/* <Shop></Shop> */}
+      {/* <News></News>  */}
+      <Footer></Footer>
       
     </div>
   )
