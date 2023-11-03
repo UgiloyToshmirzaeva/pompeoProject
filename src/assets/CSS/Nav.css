@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    height: 65px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 3rem;
+    box-shadow: 0px 0px 13px 10px;
+}
+.logo{
+    color: #000;
+    font-family: 'Pacifico', cursive;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px; /* 121.212% */
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+}
+a{
+    text-decoration: none;
+    color: #6C6C6C;
+    font-size: 100%;
+    transition: 0.7ms ease-in-out;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+}
+a:hover{
+    color: #D77474;
+}
+.cart{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+p{
+    font-family: Poppins;
+    color: #000;
+    font-size: 90%;
+}
+.cartPic{
+    width: 25px;
+}

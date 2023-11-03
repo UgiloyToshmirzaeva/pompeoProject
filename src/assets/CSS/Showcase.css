@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.showcase{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 95vh;
+    background-repeat: no-repeat;
+    background-image: url(/pompeo-proj/src/images/showcaseBg.png);
+    background-size: cover
+}
+.showcaseImg{
+   width: 40%; 
+}
+.showcase-left{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    width: 40%;
+}
